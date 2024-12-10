@@ -494,7 +494,7 @@ header {
   }
 }
 /* Report Styles */
-.report-container {
+.report-container { 
   margin-bottom: 20px; /* Space between report containers */
 }
 

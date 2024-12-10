@@ -156,12 +156,7 @@ $conn->close();
             <i class="fas fa-bars menuicn" id="menuicn"></i>
         </div>
 
-        <div class="searchbar">
-            <input type="text" placeholder="Search">
-            <div class="searchbtn">
-                <i class="fas fa-search"></i>
-            </div>
-        </div>
+        
 
         <div class="message">
             <div class="circle"></div>
